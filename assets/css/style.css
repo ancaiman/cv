@@ -228,6 +228,13 @@ h3 {
     justify-content: space-between;
 }
 
+.places__row2 {
+    order: 1;
+}
+
+.places__row1 {
+    order: 2;
+}
 
 .known-languages__list ul li:first-child,
 .places__row1 {
